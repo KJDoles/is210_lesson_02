@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 
-ESCAPE_STRING = r'\n'
+ESCAPE_STRING = '\\n'
 print ESCAPE_STRING

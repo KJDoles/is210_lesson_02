@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Returns dialogue from Monty Python and the Holy Grail. 
-   Creates variable SPANISH which contains the part of the dialogue 
-   about the Spanish Inqistion from Monty Python and the Holy Grail. 
-   Also, the line is associated with the movie Sliding Doors. 
+"""Returns dialogue from Monty Python and the Holy Grail.
+   Creates variable SPANISH which contains the part of the dialogue
+   about the Spanish Inqistion from Monty Python and the Holy Grail.
+   Also, the line is associated with the movie Sliding Doors.
 """
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
