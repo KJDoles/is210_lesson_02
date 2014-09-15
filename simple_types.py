@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''Explores basic nature of boolean types and there representative integers.
+'''
 
 IS_TRUE = True
 IS_FALSE = False
